@@ -23,13 +23,13 @@ repository               : "aazunigar/aazunigar.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Andrés A. Zúñiga"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Assistant Professor in Automation and Robotics"
+  location         : "Lisbon, Portugal"
+  employer         : "Instituto Superior de Engenharia de Lisboa - ISEL"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "andres.zuniga@isel.pt" 
 
   # Academic websites
   academia         : # URL
