@@ -40,7 +40,7 @@ author:
   orcid            : "https://orcid.org/0000-0003-0113-8901"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : ""
+  pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Andres-Zuniga"
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57205736164"
   zotero           : # URL
@@ -50,13 +50,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "aazunigar"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -65,7 +65,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "andres-zuniga-rodriguez"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
