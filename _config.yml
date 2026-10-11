@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Dr."
+title                    : "Dr. Andrés A. Zúñiga"
 title_separator          : "-"
 name                     : &name "Andrés A. Zúñiga"
 description              : &description "Assistant Professor in Automation and Robotics at ISEL"
