@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor in Automation and Robotics"
   location         : "Lisbon, Portugal"
-  employer         : "Instituto Superior de Engenharia de Lisboa - ISEL"
+  employer         : "Instituto Superior de Engenharia<br>de Lisboa - ISEL"
   uri              : # URL
   email            : "andres.zuniga@isel.pt" 
 
