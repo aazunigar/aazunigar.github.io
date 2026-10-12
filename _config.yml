@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "aqua"
+minimal_mistakes_skin    : "air"
 title                    : "Dr. Andrés A. Zúñiga"
 title_separator          : "-"
 name                     : &name "Andrés A. Zúñiga"
