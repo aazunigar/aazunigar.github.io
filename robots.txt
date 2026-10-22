@@ -1,0 +1,12 @@
+# Academic personal website: public academic indexing is permitted.
+# Voluntary crawler preferences only; not an access-control mechanism.
+# No Apollo-specific crawler identity has been verified.
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: *
+Allow: /
